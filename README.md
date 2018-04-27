@@ -1,5 +1,6 @@
 # Leet Code Everyday
-My Solutions for [LeetCode](https://leetcode.com) problems written in Swift 4.1
+![LeetCode](https://raw.githubusercontent.com/DonQvixote/LeetCodeEveryday/master/LeetCode.png)  
+My Solutions for [LeetCode](https://leetcode.com) problems written in Swift 4.1  
 Progress: ***2 / 823***
 
 ## Solutions
