@@ -12,7 +12,7 @@
 import Foundation
 
 // Runtime: 52ms
-class Solution {
+class Solution1 {
     func reverseStr(_ s: String, _ k: Int) -> String {
         let strArray = Array(s)
         let group = strArray.count / k
@@ -40,5 +40,34 @@ class Solution {
         }
         
         return reverseStr
+    }
+}
+
+// Runtime: 64ms
+class  Solution2 {
+    func reverseStr(_ s: String, _ k: Int) -> String {
+        var chars = Array(s), reverseStr = [Character]()
+        
+        if k < 0 {
+            fatalError("Invalid k")
+        }
+        
+        for i in stride(from: 0, to: chars.count, by: 2 * k) {
+            if chars.count < i + k {
+                reverseStr += chars[i..<chars.count].reversed()
+                break
+            }
+            
+            reverseStr += chars[i..<i + k].reversed()
+            
+            if chars.count < i + 2 * k {
+                reverseStr += chars[i + k..<chars.count]
+                break
+            }
+            
+            reverseStr += chars[i + k..<i + 2 * k]
+        }
+        
+        return String(reverseStr)
     }
 }
