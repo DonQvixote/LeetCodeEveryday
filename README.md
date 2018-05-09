@@ -1,7 +1,7 @@
 # Leet Code Everyday
 ![LeetCode](https://raw.githubusercontent.com/DonQvixote/LeetCodeEveryday/master/LeetCode.png)  
 My Solutions for [LeetCode](https://leetcode.com) problems written in Swift 4.1  
-Progress: ***7 / 831***
+Progress: ***9 / 831***
 
 ## Solutions
 | # | Title | Status | Difficulty |
@@ -11,6 +11,8 @@ Progress: ***7 / 831***
 | 3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Medium/LongestSubstringWithoutRepeatingCharacters.swift)|Medium|
 | 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Hard/MedianOfTwoSortedArrays.swift)|Hard|
 | 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Medium/LongestPalindromicSubstring.swift)|Medium|
+| 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Medium/ZigZagConversion.swift)|Medium|
+| 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Easy/ReverseInteger.swift)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Easy/ReverseString.swift)|Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Easy/ReverseStringII.swift)|Easy|
 
