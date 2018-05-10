@@ -1,7 +1,7 @@
 # Leet Code Everyday
 ![LeetCode](https://raw.githubusercontent.com/DonQvixote/LeetCodeEveryday/master/LeetCode.png)  
 My Solutions for [LeetCode](https://leetcode.com) problems written in Swift 4.1  
-Progress: ***9 / 831***
+Progress: ***10 / 831***
 
 ## Solutions
 | # | Title | Status | Difficulty |
@@ -13,6 +13,7 @@ Progress: ***9 / 831***
 | 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Medium/LongestPalindromicSubstring.swift)|Medium|
 | 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Medium/ZigZagConversion.swift)|Medium|
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Easy/ReverseInteger.swift)|Easy|
+| 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Medium/StringToInteger.swift)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Easy/ReverseString.swift)|Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|[✓](https://github.com/DonQvixote/LeetCodeEveryday/blob/master/Easy/ReverseStringII.swift)|Easy|
 
